@@ -18,6 +18,11 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtraswed&show_icons=true&locale=en&count_private=true" alt="xtraswed" />
 </p>
 
+##    Missions
+- [ ] Discord nuke bot on C
+- [ ] PlazmaBurst 2 terminal
+- [ ] DiscoCrash 1.0
+
 ## Organisations
 Organizations I`m a owner of:
 
@@ -33,8 +38,3 @@ Organizations I`m a owner of:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtraswed&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)]
-
-##    Missions
-- [ ] Discord nuke bot on C
-- [ ] PlazmaBurst 2 terminal
-- [ ] DiscoCrash 1.0
