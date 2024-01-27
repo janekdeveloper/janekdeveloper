@@ -37,4 +37,4 @@ Organizations I`m a owner of:
     <a href="https://webstore.ansi.org/Standards/INCITS/INCITSISOIEC98992012"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtraswed&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtraswed&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
