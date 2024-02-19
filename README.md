@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 ## Organisations
 Organizations I`m a owner of:
-
-* [PlazmaHackers](https://github.com/PlazmaHackers)
 * [DiscoCrash](https://github.com/discocrash-py)
 
 ## Programming Languages
