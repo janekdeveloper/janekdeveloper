@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - [ ] Discord nuke bot on C
 - [ ] PlazmaBurst 2 terminal
 - [ ] DiscoCrash 1.0
-
+<!--
 ## Organisations
 Organizations I`m a owner of:
-* [DiscoCrash](https://github.com/discocrash-py)
-
+* []()
+-->
 ## Programming Languages
 <p align="left">
     <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
