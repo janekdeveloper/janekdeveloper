@@ -1,4 +1,4 @@
-#     Hi, I`m Xtraswed 👋
+#     Hi, I`m JanekDev 👋
 
 <!--
 **xtraswed/xtraswed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtraswed&show_icons=true&locale=en&count_private=true" alt="xtraswed" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&locale=en&count_private=true" alt="janekdeveloper" />
 </p>
 
 ##    Missions
-- [x] [VimeWorld.py](https://github.com/xtraswed/vimeworld)
+- [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
 - [ ] VimeWorld.py 1.0.0
 - [ ] Discord nuke bot on C
 - [ ] PlazmaBurst 2 terminal
@@ -37,4 +37,4 @@ Organizations I`m a owner of:
     <a href="https://webstore.ansi.org/Standards/INCITS/INCITSISOIEC98992012"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtraswed&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekdeveloper&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
