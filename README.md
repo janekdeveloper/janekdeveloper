@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&locale=en&count_private=true" alt="janekdeveloper" />
 </p>
+
 ## Project
 * WiseText
+
 ##    Missions
 - [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
 - [ ] VimeWorld.py 1.0.0
