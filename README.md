@@ -1,4 +1,4 @@
-#     Hi, I`m JanekDev 👋
+#     Hi, I`m JanDev 👋
 
 <!--
 **xtraswed/xtraswed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&locale=en&count_private=true" alt="janekdeveloper" />
 </p>
-
+## Project
+* WiseText
 ##    Missions
 - [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
 - [ ] VimeWorld.py 1.0.0
