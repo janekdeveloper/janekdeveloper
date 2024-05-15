@@ -18,8 +18,9 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&locale=en&count_private=true" alt="janekdeveloper" />
 </p>
 
-## Project
-* WiseText
+## Projects
+* [WiseText](https://github.com/janekdeveloper/WiseText) - Text editor written in flat (python). Support for Excel tables, markdowns, charts, images will be added soon
+* [VimeWorld.py](https://github.com/janekdeveloper/vimeworld) - A wrapper for the vimeworld API. To receive statistics of players, guilds, etc.
 
 ##    Missions
 - [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
