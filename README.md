@@ -39,5 +39,6 @@ Organizations I`m a owner of:
     <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://golang.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 </p>
+    <a href"https://nodejs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekdeveloper&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
