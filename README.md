@@ -1,44 +1,63 @@
-#     Hi, I`m JanDev 👋
+# Hi, I'm JanDev 👋
+**Full Stack Developer**
 
-<!--
-**xtraswed/xtraswed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications, APIs and services.  
+Mostly backend-focused, with frontend experience.
 
-Here are some ideas to get you started:
+## 👤 About Me
+- Full stack web developer
+- Build APIs, services, and CLI tools
+- Care about performance and code structure
+- Interested in how programming languages and VMs work
+- Prefer simple, explicit, and maintainable code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### 🧠 Avenir
+🔗 https://github.com/avenir-lang/avenir  
+
+**Avenir** is a statically typed programming language built as a  
+technical and educational project.
+
+## 🛠 Tech Stack
+
+### Languages
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&locale=en&count_private=true" alt="janekdeveloper" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-## Projects
-* [Avenir](https://github.com/janekdeveloper/WiseText) -  Avenir is a statically typed language with a compact VM, explicit syntax, and a pragmatic standard library. 
-<!--* [VimeWorld.py](https://github.com/janekdeveloper/vimeworld) - A wrapper for the vimeworld API. To receive statistics of players, guilds, etc.
-* [SpaceWiki](https://github.com/janekdeveloper/spacewiki) - interactive web planetarium with [API](https://spacewiki.fly.dev/json)
--->
-##    Missions
-- [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
-- [ ] VimeWorld.py 1.0.0
-- [ ] Discord nuke bot on C
-- [ ] PlazmaBurst 2 terminal
-- [ ] DiscoCrash 1.0
+### Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
+</p>
+
+### Frontend / Desktop
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janekdeveloper&layout=compact"/>
+</p>
+
+
 <!--
-## Organisations
-Organizations I`m a owner of:
-* []()
+## 🧩 Other Projects
+- **VimeWorld.py** — Python wrapper for VimeWorld API  
+- **SpaceWiki** — Interactive web planetarium + JSON API *(paused)*
 -->
-## Programming Languages
-<p align="left">
-    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-    <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janekdeveloper&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+## 🗺 Roadmap
+- [x] Release **VimeWorld.py**
+- [ ] **VimeWorld.py 1.0.0**
+- [ ] Discord nuke bot in **C**
+- [ ] PlazmaBurst 2 terminal client
+- [ ] DiscoCrash **1.0**
+-->
