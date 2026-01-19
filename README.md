@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </p>
 
 ## Projects
-* [WiseText](https://github.com/janekdeveloper/WiseText) - Text editor written in flat (python). Support for Excel tables, charts, images will be added soon
-* [VimeWorld.py](https://github.com/janekdeveloper/vimeworld) - A wrapper for the vimeworld API. To receive statistics of players, guilds, etc.
+* [Avenir](https://github.com/janekdeveloper/WiseText) -  Avenir is a statically typed language with a compact VM, explicit syntax, and a pragmatic standard library. 
+<!--* [VimeWorld.py](https://github.com/janekdeveloper/vimeworld) - A wrapper for the vimeworld API. To receive statistics of players, guilds, etc.
 * [SpaceWiki](https://github.com/janekdeveloper/spacewiki) - interactive web planetarium with [API](https://spacewiki.fly.dev/json)
-
+-->
 ##    Missions
 - [x] [VimeWorld.py](https://github.com/janekdeveloper/vimeworld)
 - [ ] VimeWorld.py 1.0.0
