@@ -18,6 +18,11 @@ Mostly backend-focused, with frontend experience.
 **Avenir** is a statically typed programming language built as a  
 technical and educational project.
 
+### 👾 JanLauncher
+🔗 https://github.com/janekdeveloper/janlauncher
+
+JanLauncher — an open-source desktop launcher for Hytale.
+
 ## 🛠 Tech Stack
 
 ### Languages
