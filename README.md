@@ -3,6 +3,9 @@
 
 I build web applications, APIs and services.  
 Mostly backend-focused, with frontend experience.
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janekdeveloper&theme=blueberry"/>
+</p>
 
 ## 👤 About Me
 - Full stack web developer
@@ -12,16 +15,12 @@ Mostly backend-focused, with frontend experience.
 - Prefer simple, explicit, and maintainable code
 
 ## 🚀 Featured Project
-### 🧠 Avenir
-🔗 https://github.com/avenir-lang/avenir  
-
+### 🧠 [Avenir](https://github.com/avenir-lang/avenir)
 **Avenir** is a statically typed programming language built as a  
 technical and educational project.
 
-### 👾 JanLauncher
-🔗 https://github.com/janekdeveloper/janlauncher
-
-JanLauncher — an open-source desktop launcher for Hytale.
+### 👾 [JanLauncher](https://github.com/janekdeveloper/janlauncher)
+**JanLauncher** — an open-source desktop launcher for Hytale.
 
 ## 🛠 Tech Stack
 
@@ -29,6 +28,7 @@ JanLauncher — an open-source desktop launcher for Hytale.
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
@@ -47,11 +47,12 @@ JanLauncher — an open-source desktop launcher for Hytale.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=janekdeveloper&show_icons=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janekdeveloper&layout=compact"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janekdeveloper&theme=blueberry"/>
 </p>
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janekdeveloper&theme=blueberry"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janekdeveloper&theme=blueberry"/>
+</p>
 <!--
 ## 🧩 Other Projects
 - **VimeWorld.py** — Python wrapper for VimeWorld API  
