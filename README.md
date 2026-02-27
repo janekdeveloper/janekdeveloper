@@ -4,7 +4,7 @@
 I build web applications, APIs and services.  
 Mostly backend-focused, with frontend experience.
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janekdeveloper&theme=blueberry"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanekDeveloper&theme=blueberry"/>
 </p>
 
 ## 👤 About Me
