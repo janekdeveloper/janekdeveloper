@@ -47,11 +47,11 @@ technical and educational project.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janekdeveloper&theme=blueberry"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanekDeveloper&theme=blueberry"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janekdeveloper&theme=blueberry"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janekdeveloper&theme=blueberry"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanekDeveloper&theme=blueberry"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JanekDeveloper&theme=blueberry"/>
 </p>
 <!--
 ## 🧩 Other Projects
