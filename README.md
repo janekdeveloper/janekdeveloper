@@ -1,5 +1,5 @@
 # Hi, I'm JanDev 👋
-**Full Stack Developer**
+**FullStack Developer**
 
 I build web applications, APIs and services.  
 Mostly backend-focused, with frontend experience.
